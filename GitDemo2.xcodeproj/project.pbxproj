@@ -15,6 +15,7 @@
 		C4DF919E1CD7600700FE9E85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4DF919C1CD7600700FE9E85 /* LaunchScreen.storyboard */; };
 		C4DF91A91CD7600800FE9E85 /* GitDemo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DF91A81CD7600800FE9E85 /* GitDemo2Tests.swift */; };
 		C4DF91B41CD7600800FE9E85 /* GitDemo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DF91B31CD7600800FE9E85 /* GitDemo2UITests.swift */; };
+		C4DF91C21CD7615600FE9E85 /* File1TEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DF91C11CD7615600FE9E85 /* File1TEST.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C4DF91AF1CD7600800FE9E85 /* GitDemo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4DF91B31CD7600800FE9E85 /* GitDemo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemo2UITests.swift; sourceTree = "<group>"; };
 		C4DF91B51CD7600800FE9E85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4DF91C11CD7615600FE9E85 /* File1TEST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File1TEST.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				C4DF91901CD7600700FE9E85 /* AppDelegate.swift */,
 				C4DF91921CD7600700FE9E85 /* ViewController.swift */,
+				C4DF91C11CD7615600FE9E85 /* File1TEST.swift */,
 				C4DF91941CD7600700FE9E85 /* Main.storyboard */,
 				C4DF919A1CD7600700FE9E85 /* Assets.xcassets */,
 				C4DF919C1CD7600700FE9E85 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				C4DF91991CD7600700FE9E85 /* GitDemo2.xcdatamodeld in Sources */,
 				C4DF91931CD7600700FE9E85 /* ViewController.swift in Sources */,
 				C4DF91911CD7600700FE9E85 /* AppDelegate.swift in Sources */,
+				C4DF91C21CD7615600FE9E85 /* File1TEST.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
